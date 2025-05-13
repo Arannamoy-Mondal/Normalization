@@ -1,8 +1,7 @@
 # Normalization
 
-## 1NF: 
+## 1NF Conditions:: 
 <ol>
-  <a>Conditions:</a>
   <li>Atomic values. No column has multiple valued comma separated.Example: Name column (X,Y) </li>
   <li>Unique column name.</li>
   <li>Positional dependency of data. Ordering does not matter. Data must be same after ordering.</li>

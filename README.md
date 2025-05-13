@@ -8,3 +8,11 @@
   <li>Column should contain that are of same type data</li>
   <li>Determine primary key</li>
 </ol>
+
+
+## 2NF Conditions:
+<ol>
+  <li>Must be in 1NF</li>
+  <li>No partial depedencies.Sometimes composite primary key creates partial dependencies.</li>
+  <li></li>
+</ol>
